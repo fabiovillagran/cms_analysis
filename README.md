@@ -4,7 +4,7 @@
 
 This is an in-depth analysis of CMS Part D spending from 2015 through 2019 (link here), focused around products, brands and molecules that comprise the bulk of CMS Part D spend during these years, and how Part D spending has evolved over time.
 
-[insert screenshot of CMS Part D dataset source website]
+![](Screenshot 2023-11-13 140816.png)
 
 ## Key Findings
 
