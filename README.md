@@ -8,11 +8,11 @@ This is an in-depth analysis of CMS Part D spending from 2015 through 2019 (link
 
 ## Key Findings
 
-The top brand by total Part D spend in 2019 was XXX, and the top manufacturer by spend was YYY.  These have changed/remained consistent since 2015, when XXX and YYY were the top brand and mftr.
+* Overall Part D spending **increased 37%**  from 2015 to 2019, up to $183B.
+* The top brand by total Part D spend in 2019 was Eliquis, a blood thinner manufactured by Bristol-Myers Squibb.  The top brand by spend in 2015 was Gilead's Harvoni.
+* The top manufacturer by spend in 2019 was Novo Nordisk with almost $10B in total spend.
 
-[insert chart of top brands/MFTRS by spend 2019]
+![](top_drugs_by_spend.png)
 
-In terms of generic molecule, XXX has been responsible for most of CMS Part D spend...
 
-[molecule]
 
